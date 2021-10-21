@@ -1,4 +1,4 @@
-# ACSL-Time-Sheets-with-Swift
+# ACSL Time Sheets with Swift
 
 
 [ACSL Time Sheets](https://github.com/Awesomeplayer165/ACSL-Time-Sheets-with-Swift/blob/master/TimeSheets%20(2).doc) is a program designed to calculate the daily pay for each employee.
