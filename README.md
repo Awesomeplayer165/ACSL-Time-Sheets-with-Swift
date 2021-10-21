@@ -72,3 +72,11 @@ daily pay amounts. All pay amounts must be printed in dollar and cents format.
 3. $84.00
 4. $24.00
 5. $210.00
+
+## REPL:
+
+Visit the Replit link here: https://replit.com/@Squealingfur185/ACSL-Time-Sheets-with-Swift-1#main.swift
+
+## Created and Maintained by:
+
+[Jacob Trentini](https://github.com/Awesomeplayer165)
